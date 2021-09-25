@@ -1,0 +1,33 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    width: 100%;
+    font-size: 25px;
+    margin: 0;
+}
+
+#number_of_objects , #status 
+{
+    font-size: 20px;
+}
+
+canvas
+{
+    box-shadow: 5px 5px 5px solid grey;
+    background: honeydew;
+    margin-top: 120px;
+    align-self: center;
+    padding: 10px;
+    border: 7px solid black;
+    border-radius: 7px;
+}
+#back 
+{
+    float: right;
+    font-size: 20px;
+    margin-right: 10px;
+}
